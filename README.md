@@ -26,5 +26,12 @@ As raízes do estudo são amargas, mas os seus frutos são doces.
 
 ##
 ![Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=canibalismo&show_icons=true&theme=dracula)
+##
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{canibalismo}/count.svg" /></p>
+<br>
+</div>
 
 ![header](https://capsule-render.vercel.app/api?color=0:ff0000,100:b80000&type=waving&height=120&section=footer)
