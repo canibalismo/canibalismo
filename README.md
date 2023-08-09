@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=0:ff0000,100:b80000&type=waving&height=120&section=header)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&size=23&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+Github;Welcome+to+my+Github;Willkommen+auf+meinem+Github;%F0%9F%98%88" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Bold&size=24&pause=1000&color=F70000&width=435&lines=Seja+bem-vindo(a)+ao+meu+Github!;Welcome+to+my+Github!;Willkommen+auf+meinem+Github!" alt="Typing SVG" /></a>
+
 #### Olá! Eu sou o Cauã, mas muitos me chamam de Carmo, tenho 19 anos. Sou estudante de programação desde os meus 13 anos e sempre me interessei pela área de segurança cibernética e IA. Gosto de Python, Ruby, JS, CSS, HTML, Lua, Perl e possuo bastante experiência em Bootstrap. 😈
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/11kalashnikov)
