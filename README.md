@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Bold&size=24&pause=1000&color=F70000&width=435&lines=Seja+bem-vindo(a)+ao+meu+Github!;Welcome+to+my+Github!;Willkommen+auf+meinem+Github!" alt="Typing SVG" /></a>
 
-#### Olá! Eu sou o Cauã, mas muitos me chamam de Carmo, tenho 19 anos. Sou estudante de programação desde os meus 13 anos e sempre me interessei pela área de segurança cibernética e IA. Gosto de Python, Ruby, JS, CSS, HTML, Lua, Perl e possuo bastante experiência em Bootstrap. 😈
+#### Olá! Eu sou o Cauã, mas muitos me chamam de Carmo, tenho 20 anos. Sou estudante de programação desde os meus 13 anos e sempre me interessei pela área de segurança cibernética e IA. Gosto de Python, Ruby, JS, CSS, HTML, Lua, Perl e possuo bastante experiência em Bootstrap. 
 
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Bold&size=17&pause=1000&color=F70000&width=435&lines=Minhas+redes+sociais!;My+social+networks!;Meine+sozialen+Netzwerke!" alt="Typing SVG" /></a>
